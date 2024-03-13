@@ -3,7 +3,7 @@ void main() {
 }
 
 void desafio_03() {
-  var number = -26;
+  var number = 5;
   if (number < 0) {
     print("Não existe fatorial de número negativo!");
     return;
